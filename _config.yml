@@ -23,7 +23,7 @@ repository               : "lara-bister/lara-bister.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo1.jpg"
   name             : "Your Sidebar Name"
   pronouns         : "she/her" # example: "she/her"  
   bio              : "Sociologist and Social Demographer researching health, family, child disability and life course dynamics."
@@ -33,7 +33,7 @@ author:
   email            : "lara.bister@wzb.eu" 
 
   # Academic websites
-  academia         : # URL
+  academia         : "https://cms.wzb.eu/en/persons/lara-bister" # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=rpQiM6wAAAAJ&hl=en"
   inspire-hep      : # URL
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "lara-bister"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
