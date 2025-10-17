@@ -17,3 +17,5 @@ BLOCKER 'My research'
 BLOCKER 'My work' + 'Outreach'
 
 Check out my CV [here]. (LINK)
+
+For collaboration and press inquiries, feel free to drop me an [email] (mailto: lara.bister@wzb.eu). 
